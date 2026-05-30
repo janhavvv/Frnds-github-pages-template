@@ -1,30 +1,30 @@
 window.VALENTINE_CONFIG = {
-  "partnerName": "Your Special Someone",
-  "nickname": "Babe",
+  "partnerName": "Arunn",
+  "nickname": "Rolly",
   "dateOptions": [
     {
       "title": "Movie Night",
       "emoji": "🎬",
-      "subtitle": "Same movie • video call",
-      "note": "We pick a movie + call"
+      "subtitle": "Same movie",
+      "note": "We pick a movie"
     },
     {
-      "title": "Game Night",
+      "title": "Game Timee",
       "emoji": "🎮",
-      "subtitle": "Play together",
+      "subtitle": "Play together noob me pro u 🥲",
       "note": "You choose the game"
     },
     {
-      "title": "Late Night Talk",
-      "emoji": "☎️",
-      "subtitle": "Just you and me",
+      "title": "Late Night icecream",
+      "emoji": "🍨",
+      "subtitle": "umm I'll pay half",
       "note": "No distractions"
     },
     {
-      "title": "Video Call + Food",
+      "title": "Food",
       "emoji": "🍱",
-      "subtitle": "Eat together on call",
-      "note": "Same vibe"
+      "subtitle": "Eat together",
+      "note": "hehehe im shyy"
     }
   ],
   "foodOptions": [
@@ -71,7 +71,7 @@ window.VALENTINE_CONFIG = {
       "subtitle": "Celebration"
     }
   ],
-  "finalButtonText": "Thank you for being my Valentine 💗",
+  "finalButtonText": "Thank you for being my frienddd💗",
   "shareButtonText": "Copy our plan 💌 (send it to me)",
   "shareCopiedText": "Copied ✅ Now paste it to me 💌",
   "shareMessageFooter": "Now you have to show up 😌"
